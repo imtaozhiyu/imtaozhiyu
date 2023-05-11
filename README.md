@@ -30,3 +30,6 @@ QQ微信群一堆，但是没有几个聊得来的，<br/>
 
 哦没错，这个readme也是抄来的。
 作者参见左上角。
+
+查重报告：
+https://github.com/csfwff/csfwff/compare/master...imtaozhiyu:imtaozhiyu:c1ba880
